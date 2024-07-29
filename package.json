@@ -2,7 +2,7 @@
   "name": "he1pa-test",
   "displayName": "he1pa_test",
   "description": "",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.91.0"
   },
